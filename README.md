@@ -7,4 +7,4 @@ Wir haben uns in einem [Blog-Post](https://www.mfdz.de/blog/opendata-haltestelle
 
 Wir dokumentieren hier die von uns gefundenen Probleme und freuen uns, dass die NVBW dieses Plattform-Angebot zum Austausch mitnutzt. Hoffentlich schließen sich die die Daten pflegenden Verbünde dem zeitnah an. 
 
-Habt Ihr ebenfalls Probleme gefunden? Tragt sie gerne als Feler oder Erweiterungswunsch ein.
+Habt Ihr ebenfalls Probleme gefunden? Tragt sie gerne als Fehler oder Erweiterungswunsch ein.
